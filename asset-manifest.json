@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/news_api_serendib/static/js/main.b4aa3099.js",
+    "static/js/787.197f3f2d.chunk.js": "/news_api_serendib/static/js/787.197f3f2d.chunk.js",
+    "index.html": "/news_api_serendib/index.html",
+    "main.b4aa3099.js.map": "/news_api_serendib/static/js/main.b4aa3099.js.map",
+    "787.197f3f2d.chunk.js.map": "/news_api_serendib/static/js/787.197f3f2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b4aa3099.js"
+  ]
+}
